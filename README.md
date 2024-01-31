@@ -2,7 +2,7 @@
 #### Title: Maverik Sales Forecasting
 
 #### Introduction
-Maverik sales forecasting was the project for my capstone during the MSBA program. This project aims to provide sales forecast for a new Maverik store's first year of sales. There are 4 sales KPIs that need to be forecasted using the numerical and categorical data provided by Maverik for 37 stores' first year of sales. This model needs to be able to capture trend and seasonality in the data and be able to ingest new data and provide forecasts of that, hence, a rolling forecast. This is a time-series forecasting problem. Some models to explore are XGBoost, ARIMA, ETS and Prophet. 
+Maverik sales forecasting was the project for my capstone during the MSBA program. This project aims to provide sales forecast for a new Maverik store's first year of sales. There are 4 sales KPIs that need to be forecasted using the numerical and categorical data provided by Maverik for 37 stores' first year of sales. This model needs to be able to capture trend and seasonality in the data and be able to ingest new data and provide forecasts on that, hence, a rolling forecast. This is a time-series forecasting problem. Some models to explore are XGBoost, ARIMA, ETS and Prophet. 
 
 #### Data Exploration and Preprocessing
 - There were two datasets. One with historical sales and the other with categorical featuers of a store.
